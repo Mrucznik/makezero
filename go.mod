@@ -1,4 +1,4 @@
-module github.com/ashanbrown/makezero
+module github.com/Mrucznik/makezero
 
 go 1.12
 
