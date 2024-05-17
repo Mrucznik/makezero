@@ -7,7 +7,7 @@ used with append.
 
 ## Installation
 
-    go get -u github.com/ashanbrown/makezero
+    go get -u github.com/Mrucznik/makezero
 
 ## Usage
 
